@@ -1,0 +1,26 @@
+{
+  "name": "datarama",
+  "version": "1.0.0",
+  "description": "cs116 project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dgarci34/Datarama.git"
+  },
+  "keywords": [
+    "data",
+    "visualization"
+  ],
+  "author": "Diego Jacob Justin Brian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dgarci34/Datarama/issues"
+  },
+  "homepage": "https://github.com/dgarci34/Datarama#readme",
+  "dependencies": {
+    "d3": "^4.12.2"
+  }
+}
