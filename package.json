@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/dgarci34/Datarama#readme",
   "dependencies": {
-    "d3": "^4.12.2"
+    "d3": "^4.12.2",
+    "d3-geo": "^1.9.1"
   }
 }
